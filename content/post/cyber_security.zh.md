@@ -1,5 +1,5 @@
 +++
-date = "2017-08-03T02:06:18"
+date = "2017-08-15T02:17:08"
 draft = false
 summary ="工控系统安全资料汇总"
 
@@ -16,12 +16,14 @@ summary ="工控系统安全资料汇总"
 ## [网络资源](#4)
 
 ***
-<h2 id="1">专著、章节、学位论文<h2>
-[bibtex文件下载](/doc/ref-books.bib)
+<h2 id="1">专著、章节、学位论文汇总<h2>
+[BibTeX](/doc/ref-books.bib)
+2017-08-15更新
 ***
 
-<h2 id="2">期刊/会议论文<h2>
-
+<h2 id="2">期刊、会议论文汇总<h2>
+[BibTeX](/doc/ref-articles.bib)
+2017-09-19更新
 ***
 
 <h2 id="3">相关研究者<h2>
@@ -91,7 +93,19 @@ summary ="工控系统安全资料汇总"
 * [MODBUS Penetration Testing Framework](https://github.com/enddo/smod)
 
 * [NOZOMI Networks blog](http://blog.nozominetworks.com/)
+
+* [EtherNet/IP stack for I/O adapter devices](https://github.com/EIPStackGroup/OpENer)
+
+* [An Open Source POWERLINK protocol stack](https://github.com/OpenAutomationTechnologies/openPOWERLINK_V2)
+
+* [open source CANopen Stack](https://github.com/CANopenNode/CANopenNode)
+
+* [List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations)
+
+
 ***
+* [RISELab - Real-time Intelligence with Secure Execution](https://rise.cs.berkeley.edu/)
+
 * [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs)
 
 
