@@ -15,3 +15,5 @@ image = "headers/4.png"
 
 ## 上课地点
 * H463
+
+## [课件下载](https://github.com/xiaoleizhang/IntelligentControl)

@@ -24,6 +24,7 @@ weight = 60
 ### 硕士课程
 * 2017 春季 S0431021C 电气工程领域学术发展动态
 
+* 2017 秋季 S431004Q-0 [现场总线系统设计与应用技术](https://github.com/xiaoleizhang/fieldbus-design-application)
 ### 选修课程
 
 * 2017 夏季 020070028

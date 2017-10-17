@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-09-19T13:53:48"
 
 draft = false
 
@@ -14,9 +14,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "信息物理系统",
-    "柔性可穿戴机器人",
-    "智能医疗设备",
+    "智能物理系统",
   ]
 
 # List your qualifications (such as academic degrees).

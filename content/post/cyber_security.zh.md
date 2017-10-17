@@ -74,6 +74,8 @@ summary ="工控系统安全资料汇总"
 
 * [Stephen E. McLaughlin](http://www.stephenmclaughlin.org/)
 
+* [Yasser Shoukry (Sakr)](http://www.ece.umd.edu/~yshoukry/research.html)
+
 
 ***
 <h2 id="4">网络资源<h2>
