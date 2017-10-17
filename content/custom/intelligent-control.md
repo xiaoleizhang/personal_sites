@@ -1,5 +1,5 @@
 +++
-date = "2017-08-03T18:37:37"
+date = "2017-10-18T01:34:14"
 draft = false
 
 [header]
@@ -16,4 +16,4 @@ image = "headers/4.png"
 ## 上课地点
 * H463
 
-## [课件下载](https://github.com/xiaoleizhang/IntelligentControl)
+[课件下载](https://github.com/xiaoleizhang/IntelligentControl)

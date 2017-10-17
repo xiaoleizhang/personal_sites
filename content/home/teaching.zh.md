@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2017-08-03T02:08:08"
+date = "2017-10-18T01:34:34"
 draft = false
 
 title = "教学"
